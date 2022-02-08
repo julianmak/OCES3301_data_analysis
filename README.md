@@ -2,11 +2,11 @@
 
 Material mostly in the notebooks. At least three known ways of running these:
 
-1) On your computer, by downloading the pack (there should be a green download button near the top right)
+1) On your computer, by downloading the pack (there should be a green "code" button near the top right of this page, click it and there should be "download")
 
-2) On your computer, `git clone` this repositor, then if you `git pull` you get updates (if any)
+2) On your computer, `git clone` this repository. Then you can do `git pull` you get updates (if any). You may or may not want to fork the repository (need a GitHub account), then you can commit changes too.
 
-3) In Google colab, but you might need to make copies to your own Google drive, otherwise changes are not saved.
+3) In Google colab, but you will need to pull copies to your own Google drive, otherwise changes are not saved.
 
 Clicking the icon below will open a temporary Colab instance, where changes are by default not saved (and you will need to pull the data files with `!wget` commands that are currently commented out in the notebooks). There should be a "copy to drive button" near "file" near the top left for copying to drive.
 
