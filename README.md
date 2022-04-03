@@ -12,6 +12,8 @@ Clicking the icon below will open a temporary Colab instance, where changes are 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julianmak/OCES3301_data_analysis/blob/main/) (requires Google login)
 
+NOTE: some of the larger files are managed through the [GitHub LFS](https://git-lfs.github.com/). Consider using this if you want to commit new data that is big-ish (> 100 MB, GitHub will complain)
+
 known things to add:
 
 * other resources
