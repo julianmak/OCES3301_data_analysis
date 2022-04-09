@@ -1,6 +1,6 @@
 # OCES 3301 Data Analysis in Ocean Science
 
-NOTE: I happen to be using some data relevant to ocean science, otherwise the "Ocean Science" bit is neither here no there.
+NOTE: I happen to be using some data relevant to ocean science, otherwise the "Ocean Science" bit is neither here nor there.
 
 Material mostly in the notebooks. At least three known ways of running these:
 
