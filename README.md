@@ -16,7 +16,13 @@ Clicking the icon below will open a temporary Colab instance, where changes are 
 
 NOTE (09 Apr 22): The larger data files are managed through the [GitHub LFS](https://git-lfs.github.com/). This has been a (isolated?) problem on a Mac when doing `git clone/update` in the terminal, but has not been an issue on the two Linux computers I have access to. Please let me know if there are problems in cloning/updating, and I might consider splitting the repositories into a "code" and "data" one, where the data can be accessed through appropriate `!wget` commands.
 
-known things to add:
+### Other resources I've found
 
-* other resources
+* [Python for Environmental Science course](https://github.com/florianjehn/python-for-environmental-science)
+* [Data Analysis course from Brian Powell](https://currents.soest.hawaii.edu/ocn_data_analysis/index.html)
+* [Methods of Oceanographic data analysis](https://ethan-campbell.github.io/OCEAN_215/) held on [Ethan Campbell](https://ethan-campbell.github.io/)'s GitHub
+* [Jonathan Lilly](http://jmlilly.net/)'s excellent [time series course](https://github.com/jonathanlilly/time-series)
+
+### known things to add:
+
 * some yaml / requirment.txt?
