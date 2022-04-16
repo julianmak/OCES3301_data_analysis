@@ -18,10 +18,11 @@ NOTE (09 Apr 22): The larger data files are managed through the [GitHub LFS](htt
 
 ### Other resources I've found
 
+* [Ryan Abernathey](https://github.com/rabernat)'s [Earth and Environmental Data Science course](https://earth-env-data-science.github.io/intro.html)
 * [Python for Environmental Science course](https://github.com/florianjehn/python-for-environmental-science)
 * [Data Analysis course from Brian Powell](https://currents.soest.hawaii.edu/ocn_data_analysis/index.html)
 * [Methods of Oceanographic data analysis](https://ethan-campbell.github.io/OCEAN_215/) held on [Ethan Campbell](https://ethan-campbell.github.io/)'s GitHub
-* [Jonathan Lilly](http://jmlilly.net/)'s excellent [time series course](https://github.com/jonathanlilly/time-series)
+* [Jonathan Lilly](http://jmlilly.net/)'s [time series course](https://github.com/jonathanlilly/time-series)
 
 ### known things to add:
 
