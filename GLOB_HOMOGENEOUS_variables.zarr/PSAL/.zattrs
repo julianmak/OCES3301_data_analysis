@@ -1,0 +1,15 @@
+{
+    "C_format": "%9.3f",
+    "FORTRAN_format": "F9.3",
+    "_ARRAY_DIMENSIONS": [
+        "N_PROF",
+        "DEPTH"
+    ],
+    "coordinates": "TIME LONGITUDE LATITUDE",
+    "long_name": "Practical Salinity",
+    "resolution": "0.001f",
+    "standard_name": "sea_water_salinity",
+    "units": "psu",
+    "valid_max": "41.f",
+    "valid_min": "2.f"
+}

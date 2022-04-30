@@ -1,0 +1,10 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "N_PROF",
+        "DEPTH"
+    ],
+    "coordinates": "TIME LONGITUDE LATITUDE",
+    "long_name": "Potential Density Referenced to Surface",
+    "standard_name": "sea_water_density",
+    "units": "kg/m^3"
+}
