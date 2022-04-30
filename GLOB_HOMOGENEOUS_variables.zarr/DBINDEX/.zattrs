@@ -1,0 +1,8 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "N_PROF"
+    ],
+    "coordinates": "TIME LONGITUDE LATITUDE",
+    "long_name": "Profile index within the complete database",
+    "short_name": "index"
+}

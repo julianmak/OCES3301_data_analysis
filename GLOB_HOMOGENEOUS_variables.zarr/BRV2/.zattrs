@@ -1,0 +1,10 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "N_PROF",
+        "DEPTH"
+    ],
+    "coordinates": "TIME LONGITUDE LATITUDE",
+    "long_name": "Brunt-Vaisala Frequency Squared",
+    "standard_name": "N2",
+    "units": "1/s^2"
+}

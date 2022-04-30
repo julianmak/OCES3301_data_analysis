@@ -1,0 +1,14 @@
+{
+    "Title": "VENTHSAL-IA",
+    "conventions": "CF-1.6",
+    "conventions_help": "http://cf-pcmdi.llnl.gov/documents/cf-conventions/1.6/cf-conventions.html",
+    "createdBy": "gmaze",
+    "createdWith": "/home8/homedir3/perso/gmaze/work/Projects/GMM/Argo-profiles/convertsubsets_matlab2netcdf.m",
+    "creationDate": "2019/01/22 22:07:00",
+    "dataset_file": "/home8/homedir3/perso/gmaze/data/ARGO/copoda_db/setup_K/db_thd_config6/ArgoBox_standardized_cfg01.mat",
+    "institution": "LPO/Ifremer",
+    "long_title": "Argo subset of plain profiles for VENTHSAL-IA",
+    "source": "VENTHSAL-Argo",
+    "subset_ID": "1-2",
+    "subset_maxnumber": 3.0
+}

@@ -1,0 +1,10 @@
+{
+    "_ARRAY_DIMENSIONS": [
+        "DEPTH"
+    ],
+    "axis": "Z",
+    "convention": "Negative, downward oriented",
+    "long_name": "Vertical Distance Below the Surface",
+    "standard_name": "depth",
+    "units": "m"
+}
