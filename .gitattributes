@@ -1,5 +1,2 @@
 *.nc filter=lfs diff=lfs merge=lfs -text
-<<<<<<< HEAD
 *.0 filter=lfs diff=lfs merge=lfs -text
-=======
->>>>>>> 0303c4ee808d2bc72c8e165754183396358eb3be
