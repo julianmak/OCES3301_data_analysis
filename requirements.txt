@@ -1,0 +1,14 @@
+ipython
+jupyter
+notebook
+numpy
+scipy
+pandas
+matplotlib
+scikit-learn
+statsmodels
+netCDF4
+bottleneck
+dask
+xarray
+cartopy

@@ -1,0 +1,14 @@
+name: ocesda
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - pip
+  - python>=3.9, <4.0
+  - ipython
+  - jupyter
+  - scipy
+  - pandas
+  - matplotlib
+  - pip:
+    - -r requirements.txt
