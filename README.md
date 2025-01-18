@@ -14,6 +14,8 @@ Clicking the icon below will open a temporary Colab instance, where changes are 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julianmak/OCES3301_data_analysis/blob/main/) (requires Google login)
 
+NOTE (18 Jan 25): yaml and environment files added by Jonathan Lee
+
 NOTE (09 Apr 22): The larger data files are managed through the [GitHub LFS](https://git-lfs.github.com/). This has been a (isolated?) problem on a Mac when doing `git clone/update` in the terminal, but has not been an issue on the two Linux computers I have access to. Please let me know if there are problems in cloning/updating, and I might consider splitting the repositories into a "code" and "data" one, where the data can be accessed through appropriate `!wget` commands.
 
 ### Other resources I've found
@@ -26,4 +28,4 @@ NOTE (09 Apr 22): The larger data files are managed through the [GitHub LFS](htt
 
 ### known things to add:
 
-* some yaml / requirment.txt?
+* ?
