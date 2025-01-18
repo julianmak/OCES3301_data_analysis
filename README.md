@@ -14,12 +14,6 @@ Clicking the icon below will open a temporary Colab instance, where changes are 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julianmak/OCES3301_data_analysis/blob/main/) (requires Google login)
 
-NOTE (18 Jan 25): rendered notebooks with intended outputs are in `rendered` folder; notebooks on base of tree are fresh with no outputs
-
-NOTE (18 Jan 25): yaml and environment files added by Jonathan Lee
-
-NOTE (09 Apr 22): The larger data files are managed through the [GitHub LFS](https://git-lfs.github.com/). This has been a (isolated?) problem on a Mac when doing `git clone/update` in the terminal, but has not been an issue on the two Linux computers I have access to. Please let me know if there are problems in cloning/updating, and I might consider splitting the repositories into a "code" and "data" one, where the data can be accessed through appropriate `!wget` commands.
-
 ### Other resources I've found
 
 * [Ryan Abernathey](https://github.com/rabernat)'s [Earth and Environmental Data Science course](https://earth-env-data-science.github.io/intro.html)
@@ -28,6 +22,12 @@ NOTE (09 Apr 22): The larger data files are managed through the [GitHub LFS](htt
 * [Methods of Oceanographic data analysis](https://ethan-campbell.github.io/OCEAN_215/) held on [Ethan Campbell](https://ethan-campbell.github.io/)'s GitHub
 * [Jonathan Lilly](http://jmlilly.net/)'s [time series course](https://github.com/jonathanlilly/time-series)
 
-### known things to add:
+### known things to add/check:
 
-* ?
+* all notebooks to run on Colab with modulo additiongs of `!pip` + will remote load data appropriately
+
+### big updates (18 Jan 2025)
+
+* yaml and environment files added by Jonathan Lee
+* default is to load data remotely; to test on Colab (the worst one would be `10` and that seems to run ok)
+* added rendered notebooks with intended outputs (in folder `rendered`)
