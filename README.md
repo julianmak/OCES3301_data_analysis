@@ -20,8 +20,8 @@ Core topics are
 
 1. some basics of Python, virtual environments, variable types, indexing, plotting
 2. (local/remote) reading and manipulating data in python, basics of pandas
-3. linear regression
-4. multi-linear regression, principal component analysis
+3. measure of mismatch, linear regression
+4. multi-linear regression, A/BIC, principal component analysis
 5. basics of probability, histograms, pdfs, statistical tests
 6. more statistical tests, other topics in probability (Shannon / diversity index)
 7. time series data, filtering, power spectrum
