@@ -14,6 +14,23 @@ Clicking the icon below will open a temporary Colab instance, where changes are 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/julianmak/OCES3301_data_analysis/blob/main/) (requires Google login)
 
+### Topics included here
+
+Core topics are
+
+1. some basics of Python, virtual environments, variable types, indexing, plotting
+2. (local/remote) reading and manipulating data in python, basics of pandas
+3. linear regression
+4. multi-linear regression, principal component analysis
+5. basics of probability, histograms, pdfs, statistical tests
+6. more statistical tests, other topics in probability (Shannon / diversity index)
+7. time series data, filtering, power spectrum
+8. missing data in time, interpolation/extrapolation
+9. multi-dimension array data, NetCDF data, xarray, basic plotting, subsetting 
+10. maps, interpolation/extrapolation, empiricial orthogonal functions
+
+Extra topics are mostly machine learning oriented, or exploring data repositories (e.g. satellite data from Copernicus)
+
 ### Other resources I've found
 
 * [Ryan Abernathey](https://github.com/rabernat)'s [Earth and Environmental Data Science course](https://earth-env-data-science.github.io/intro.html)
